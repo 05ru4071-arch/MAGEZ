@@ -1,4 +1,0 @@
-aiogram==3.*
-openpyxl
-pillow
-python-dotenv
